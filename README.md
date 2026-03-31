@@ -1,16 +1,24 @@
-# React + Vite
+# 🛠️ Digital Tools Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**DigiTools** is a sleek, modern, and high-performance digital asset platform designed for creators and professionals. It provides a curated marketplace for premium AI tools, design templates, and software solutions, featuring a seamless user journey from discovery to checkout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Key Features
 
-## React Compiler
+* **Dynamic Product Management:** An interactive gallery where users can browse premium tools, view detailed feature sets, and toggle between the marketplace and their active shopping cart.
+* **Integrated Shopping Cart:** A real-time cart system that calculates total costs, allows for item removal, and provides a clear path to a streamlined checkout process.
+* **Modern Pricing Architecture:** A transparent, three-tier pricing model (**Starter, Pro, and Enterprise**) designed with responsive UI elements to build trust and clarity.
+* **Responsive Design:** Fully optimized for all screen sizes, from mobile devices to large desktop monitors.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💻 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**React.js**  Building a fast, component-based, and scalable SPA. 
+
+**Tailwind CSS**  Custom purple-centric styling and rapid UI development.
+
+**Lucide React**  Implementing high-quality and consistent iconography.
+
+**JavaScript (ES6+)**  Core logic and state management.
