@@ -15,20 +15,22 @@ const Workflow = () => {
           </p>
 
           <div className="flex gap-5 items-center flex-wrap justify-center">
-            <div className="bg-white rounded-full btn py-7 px-8">
+            <div className="bg-white rounded-full btn py-7 px-8 border-none">
               <button
-                className="w-full font-semibold 
+                className="w-full font-bold 
                bg-linear-to-r from-[#4F39F6] to-[#9514FA] 
-               bg-clip-text text-transparent"
+               bg-clip-text text-transparent "
               >
                 Explore Products
               </button>
             </div>
-            <button className="btn rounded-full py-7 px-8 font-semibold border text-white hover:bg-white hover:text-black border-gray-300 bg-transparent ">
+            <button className="btn rounded-full py-7 px-8 font-bold border text-white hover:bg-white hover:text-black border-gray-300 bg-transparent ">
               View Pricing
             </button>
           </div>
-          <p>14-day free trial • No credit card required • Cancel anytime</p>
+          <p className="opacity-80">
+            14-day free trial • No credit card required • Cancel anytime
+          </p>
         </div>
       </section>
     </>

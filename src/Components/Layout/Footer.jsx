@@ -6,8 +6,8 @@ const Footer = () => {
   return (
     <footer className="bg-[#101727] pt-20 pb-10 text-white">
       <div className="container mx-auto px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-14 gap-10 lg:gap-8">
-          <div className="lg:col-span-5">
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-10 text-center md:text-start">
+          <div>
             <h2 className="text-3xl font-bold mb-4">DigiTools</h2>
             <p className="text-gray-400 leading-relaxed max-w-md">
               Premium digital tools for creators, professionals, and businesses.
@@ -94,23 +94,23 @@ const Footer = () => {
             </ul>
           </div>
           {/* Social Links */}
-          <div className="lg:col-span-2">
+          <div className="mx-auto">
             <h3 className="font-semibold text-lg mb-5 text-white">
               Social Links
             </h3>
             <div className="flex items-center gap-3">
               <a href="#">
                 <AiFillInstagram
-                  size={50}
+                  size={40}
                   className="bg-white rounded-full p-3 text-black"
                 />
               </a>
               <a href="#" className="bg-white rounded-full">
-                <ImFacebook2 size={50} className="p-3 text-black" />
+                <ImFacebook2 size={40} className="p-3 text-black" />
               </a>
               <a href="#">
                 <FaXTwitter
-                  size={50}
+                  size={40}
                   className="bg-white rounded-full p-3 text-black"
                 />
               </a>

@@ -16,7 +16,7 @@ const Cards = ({ SelectCard, setSelectCard }) => {
 
   return (
     <>
-      <section className="mb-30">
+      <section className="pb-30 bg-white text-black">
         <h2 className="text-3xl font-bold">Your Cards</h2>
 
         {SelectCard.length === 0 ? (

@@ -5,7 +5,7 @@ import RocketImage from "../../assets/rocket.png";
 const GetStarted = () => {
   return (
     <>
-      <section className="bg-base-200 py-30">
+      <section className="py-30 bg-white text-black">
         <div className="container mx-auto">
           <header className="text-center space-y-3 py-5">
             <h1 className="text-5xl font-extrabold">Get Started in 3 Steps</h1>
@@ -14,9 +14,9 @@ const GetStarted = () => {
             </p>
           </header>
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-20 mt-10">
+          <div className="grid md:grid-cols-3  gap-5 lg:gap-10 mt-10 text-black">
             {/* card 1 */}
-            <div className="relative card card-body rounded-2xl text-center shadow-lg bg-white card-border py-20 transition-all duration-300 ease-in-out hover:scale-105">
+            <div className="relative card card-body rounded-2xl text-center shadow-lg bg-gray-100 py-20 transition-all duration-300 ease-in-out hover:scale-102">
               <img
                 src={UserImage}
                 alt=""
@@ -34,7 +34,7 @@ const GetStarted = () => {
               </div>
             </div>
             {/* card 2 */}
-            <div className="relative card card-body rounded-2xl text-center shadow-lg bg-white card-border py-20 transition-all duration-300 ease-in-out hover:scale-105">
+            <div className="relative card card-body rounded-2xl text-center shadow-lg bg-gray-100 py-20 transition-all duration-300 ease-in-out hover:scale-102">
               <img
                 src={PackageImage}
                 alt=""
@@ -52,11 +52,11 @@ const GetStarted = () => {
               </div>
             </div>
             {/* card 3 */}
-            <div className="relative card card-body rounded-2xl text-center shadow-lg bg-white card-border py-20 transition-all duration-300 ease-in-out hover:scale-105">
+            <div className="relative card card-body rounded-2xl text-center shadow-lg bg-gray-100 py-20 transition-all duration-300 ease-in-out hover:scale-102">
               <div className="rounded-full bg-[#f3e8fe] w-fit mx-auto">
                 <img src={RocketImage} alt="" className="w-fit mx-auto p-5" />
               </div>
-              <h1 className="text-2xl font-bold">Start Creating</h1>
+              <h1 className="text-2xl font-bold ">Start Creating</h1>
               <p className="font-semibold">
                 Download and start using your premium <br /> tools immediately.
               </p>
