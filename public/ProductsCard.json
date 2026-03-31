@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Logo Maker Pro",
+    "description": "Create stunning logos and brand identities in minutes with AI.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "New",
+    "features": [
+      "Unlimited logo generations",
+      "Vector file export",
+      "Brand kit creator",
+      "Multiple style options",
+      "Commercial rights"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/831/831114.png"
+  },
+  {
+    "id": 2,
+    "name": "Email Marketing Suite",
+    "description": "Build, send, and optimize high-converting email campaigns effortlessly.",
+    "price": 22,
+    "period": "monthly",
+    "tag": "popular",
+    "features": [
+      "Unlimited campaigns",
+      "Drag & drop builder",
+      "A/B testing",
+      "Automation workflows",
+      "Spam score checker"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2082/2082812.png"
+  },
+  {
+    "id": 3,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 290,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker",
+      "SEO optimization",
+      "Plagiarism checker"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/2593/2593544.png"
+  },
+  {
+    "id": 4,
+    "name": "Video Editing AI",
+    "description": "Create professional videos with AI-powered editing, effects, and voiceovers.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "New",
+    "features": [
+      "Auto video editing",
+      "AI voiceover generator",
+      "1000+ effects & transitions",
+      "Text-to-video",
+      "4K export"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/4341/4341134.png"
+  },
+  {
+    "id": 5,
+    "name": "Design Templates Pack",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 490,
+    "period": "yearly",
+    "tag": "Best Seller",
+    "features": [
+      "2000+ templates",
+      "Monthly updates",
+      "Commercial license",
+      "Figma & Canva compatible",
+      "Editable in Photoshop"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1055/1055644.png"
+  },
+  {
+    "id": 6,
+    "name": "Premium Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "New",
+    "features": [
+      "10M+ assets",
+      "Commercial use",
+      "No attribution required",
+      "4K videos & photos",
+      "Vector illustrations"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1041/1041916.png"
+  },
+  {
+    "id": 7,
+    "name": "Social Media Manager",
+    "description": "Schedule, analyze, and grow your social media presence automatically.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "New",
+    "features": [
+      "Multi-platform posting",
+      "AI caption generator",
+      "Analytics dashboard",
+      "Hashtag suggestions",
+      "Auto-responder"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1968/1968641.png"
+  },
+  {
+    "id": 8,
+    "name": "All-in-One Creative Suite",
+    "description": "Get access to all our tools in one powerful subscription.",
+    "price": 79,
+    "period": "monthly",
+    "tag": "Popular",
+    "features": [
+      "All 8 tools included",
+      "Priority support",
+      "Early access to new features",
+      "Team collaboration",
+      "50% discount on future products"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/3242/3242130.png"
+  },
+  {
+    "id": 9,
+    "name": "Website Builder AI",
+    "description": "Build beautiful, responsive websites in seconds using AI.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "New",
+    "features": [
+      "AI website generator",
+      "100+ templates",
+      "E-commerce ready",
+      "SEO optimized",
+      "Hosting included"
+    ],
+    "icon": "https://cdn-icons-png.flaticon.com/512/1336/1336494.png"
+  }
+]
